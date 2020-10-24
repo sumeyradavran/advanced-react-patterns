@@ -193,6 +193,7 @@ Thanks goes to these wonderful people
   <tr>
     <td align="center"><a href="https://github.com/nawok"><img src="https://avatars3.githubusercontent.com/u/159773?v=4" width="100px;" alt=""/><br /><sub><b>Pavel Fomchenkov</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=nawok" title="Documentation">📖</a></td>
     <td align="center"><a href="http://www.seemaullal.com"><img src="https://avatars0.githubusercontent.com/u/8728285?v=4" width="100px;" alt=""/><br /><sub><b>Seema Ullal</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=seemaullal" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://git.io/JfYj5"><img src="https://avatars0.githubusercontent.com/u/25733135?v=4" width="100px;" alt=""/><br /><sub><b>Patrick Clery</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=patrickclery" title="Documentation">📖</a></td>
   </tr>
 </table>
 
@@ -219,7 +220,7 @@ Thank you! https://kcd.im/arp-ws-feedback
 [build-badge]: https://img.shields.io/travis/kentcdodds/advanced-react-patterns.svg?style=flat-square&logo=travis
 [build]: https://travis-ci.com/kentcdodds/advanced-react-patterns
 [license-badge]: https://img.shields.io/badge/license-GPL%203.0%20License-blue.svg?style=flat-square
-[license]: https://github.com/kentcdodds/advanced-react-patterns/blob/main/LICENSE
+[license]: https://github.com/kentcdodds/advanced-react-patterns/blob/main/LICENSE.md
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
 [coc]: https://github.com/kentcdodds/advanced-react-patterns/blob/main/CODE_OF_CONDUCT.md
 [emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
